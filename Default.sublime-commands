@@ -1,0 +1,5 @@
+[
+    {"caption":"TextConvert: Slug", "command":"slug"},
+    {"caption":"TextConvert: Hyphenize", "command":"hyphenize"},
+    {"caption":"TextConvert: Underscore", "command":"underscore"}
+]
