@@ -8,7 +8,6 @@ import os
 import sys
 import re
 import imp
-from unicodedata import normalize
 
 st_version = 2
 if sublime.version() == '' or int(sublime.version()) > 3000:

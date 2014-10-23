@@ -2,7 +2,6 @@ import re
 import unicodedata
 import types
 import sys
-from unidecode import unidecode
 
 def smart_truncate(string, max_length=0, word_boundaries=False, separator=' '):
     """ Truncate a string """
